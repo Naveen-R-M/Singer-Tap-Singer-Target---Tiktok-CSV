@@ -1,0 +1,6 @@
+{
+    "_comment": "all the credentials have been updated in the .env file",
+    "app_key": "<your-api-key>",
+    "app_secret": "<your-app-secret>",
+    "access_token": "<your-access-token>"
+}
