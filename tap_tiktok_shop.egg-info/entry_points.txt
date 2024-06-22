@@ -1,0 +1,2 @@
+[console_scripts]
+tap-tiktok-shop = tap_tiktok_shop:main

@@ -1,0 +1,18 @@
+attribute_type,id,input_type_is_customized,input_type_is_mandatory,input_type_is_multiple_selected,name,values_0_id,values_0_name,values_1_id,values_1_name,values_2_id,values_2_name,values_3_id,values_3_name,values_4_id,values_4_name,values_5_id,values_5_name,values_6_id,values_6_name,values_7_id,values_7_name
+3,100115,False,False,False,Product Condition,1000064,New,1000065,Used,,,,,,,,,,,,
+3,100322,True,False,False,Water Heater Type,1000811,Instant,1000812,Storage,,,,,,,,,,,,
+3,100321,True,False,True,Water Heating Energy,1000672,Electric,1000808,Gas,1000809,Heat Pump,1000810,Solar,,,,,,,,
+3,101475,True,False,True,safety warning information,1023371,choking hazard. keep small parts away from children.,1023372,Danger of an explosion if you replace the batteries with the wrong type of battery.,1023373,this device and its accessories are not toys. keep them out of the reach of small children.,1023374,parts of this device are magnetic.,1023375,do not store or carry flammable or explosive materials in the same compartment as your device.,1023376,improper use or misuse of disposable or rechargeable batteries may cause injury or damage.,1023370,No applicable warnings.,,
+2,100000,True,False,True,Color,,,,,,,,,,,,,,,,
+3,100113,True,True,False,Plug Type,1023378,non-uk plug fitted with compatible conversion plug,1001035,UK Type,1023379,"Battery powered, no plug",,,,,,,,,,
+3,100109,True,False,False,Battery Quantity,,,,,,,,,,,,,,,,
+3,100112,False,False,False,With Magnet,1000058,Yes,1000059,No,,,,,,,,,,,,
+3,100158,True,False,False,Power Consumption(W),,,,,,,,,,,,,,,,
+3,100267,True,False,False,Volume Capacity(L),,,,,,,,,,,,,,,,
+3,100108,False,False,False,With Battery,1000058,Yes,1000059,No,,,,,,,,,,,,
+3,100110,False,False,False,Battery in The Product,1000058,Yes,1000059,No,,,,,,,,,,,,
+3,100320,True,False,True,Water Heater Features,1000801,Anti-Leak Tank,1000802,Cooper Heater,1000803,DC Pump,1000562,Digital Control,1000804,Energy Saving Mode,1000805,Led Shower Head,1000806,Pump,1000807,Safety Auto-Cut Off
+3,101476,True,True,False,Warranty period,1000661,12 Months,1023377,2 years,1005753,Not applicable,,,,,,,,,,
+3,100111,True,False,False,Battery Capacity(mAh),,,,,,,,,,,,,,,,
+3,100114,True,False,False,Input Voltage(V),,,,,,,,,,,,,,,,
+3,100107,True,False,False,Warranty Type,1000054,Supplier Warranty,1000055,Manufacturer Warranty,1000056,International Warranty,1000057,No,,,,,,,,

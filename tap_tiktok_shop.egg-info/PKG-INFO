@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: tap-tiktok-shop
+Version: 0.1.0
+Summary: Singer.io tap for extracting data
+Home-page: http://singer.io
+Author: Stitch
+Classifier: Programming Language :: Python :: 3 :: Only
+License-File: LICENSE
